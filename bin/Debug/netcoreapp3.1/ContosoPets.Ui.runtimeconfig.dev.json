@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/guspfc1/.dotnet/store/|arch|/|tfm|",
+      "/home/guspfc1/.nuget/packages"
+    ]
+  }
+}
